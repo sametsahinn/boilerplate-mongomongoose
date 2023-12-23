@@ -1,4 +1,4 @@
-<br clear="both">
+###
 
 <h1 align="left">MongoDB and Mongoose Challenges</h1>
 
@@ -7,10 +7,6 @@
 <br clear="both">
 
 <p align="left">This is the boilerplate for the MongoDB and Mongoose lessons. https://www.freecodecamp.org/learn/apis-and-microservices/mongodb-and-mongoose/</p>
-
-###
-
-<h2 align="left">I code with</h2>
 
 ###
 
